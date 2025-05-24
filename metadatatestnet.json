@@ -1,0 +1,41 @@
+{
+    "specVersion": "1.0",
+    "name": "Ultra Tech Journey testnet",
+    "subName": "Uniq Factory tesnet",
+    "description": "Description test",
+    "author": "AllegorickBlock",
+    "defaultLocale": "en-US",
+    "media": {
+      "product": {
+        "contentType": "image/png",
+        "integrity": {
+          "type": "SHA256",
+          "hash": "35cc21cf321905a67957a6be2ed4703b669b8839b0559bbf1e1e658f6ce1cd19"
+        },
+        "uris": [
+          "https://ultratimes.io/images/UltraTechJourney/TestSoon.png"
+        ]
+      },
+      "square": {
+        "contentType": "image/png",
+        "integrity": {
+          "type": "SHA256",
+          "hash": "35cc21cf321905a67957a6be2ed4703b669b8839b0559bbf1e1e658f6ce1cd19"
+        },
+        "uris": [
+          "https://ultratimes.io/images/UltraTechJourney/TestSoon.png"
+        ]
+      },
+      "gallery": [],
+      "hero": {
+        "contentType": "image/png",
+        "integrity": {
+          "type": "SHA256",
+          "hash": "43e8dc7898151f224daa73ceff7593ac491a19b6176e5ba5f27818747aafddbf"
+        },
+        "uris": [
+          "https://ultratimes.io/images/UltraTechJourney/UltraTechJourney.png"
+        ]
+      }
+    }
+  }
